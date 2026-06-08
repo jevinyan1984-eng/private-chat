@@ -4,7 +4,7 @@
 
 ## 🏗️ 架构说明
 
-NodeCrypt 不使用任何数据库或存储服务：
+Private chat 不使用任何数据库或存储服务：
 
 - ✅ 所有消息/图片通过 WebSocket 实时转发
 - ✅ 使用 Cloudflare Workers Durable Object 做中转
